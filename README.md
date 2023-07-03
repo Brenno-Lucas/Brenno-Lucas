@@ -1,6 +1,6 @@
 ## Olá, seja bem-vindo(a) 👋
 
-## Eu sou Brenno Lucas, atualmente estudante de desenvolvimento Fullstack na Trybe.
+## Eu sou Brenno Lucas, Desenvolvedor Full-Stack.
 
 <div align="center">
   <a href="https://github.com/Brenno-Lucas">
